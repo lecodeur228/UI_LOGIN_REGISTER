@@ -1,16 +1,6 @@
-# ui_login_register
+#LOGIN SCREEN
+![Capture d’écran (267)](https://github.com/lecodeur228/UI_LOGIN_REGISTER/assets/92242447/d1046a1d-dd50-44d5-acb5-982c6fcfaf6a)
 
-A new Flutter project.
+#REGISTER SCREEN
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Capture d’écran (266)](https://github.com/lecodeur228/UI_LOGIN_REGISTER/assets/92242447/ffc96c72-8714-4ad3-b208-2d1d1bdff733)
