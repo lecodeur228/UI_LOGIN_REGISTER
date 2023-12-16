@@ -1,6 +1,8 @@
 #LOGIN SCREEN
-![Capture d’écran (267)](https://github.com/lecodeur228/UI_LOGIN_REGISTER/assets/92242447/d1046a1d-dd50-44d5-acb5-982c6fcfaf6a)
+
+
+![Capture d’écran (269)](https://github.com/lecodeur228/UI_LOGIN_REGISTER/assets/92242447/ee8bf35b-01ce-4ba7-bc5f-9c28f7021fff)
 
 #REGISTER SCREEN
 
-![Capture d’écran (266)](https://github.com/lecodeur228/UI_LOGIN_REGISTER/assets/92242447/ffc96c72-8714-4ad3-b208-2d1d1bdff733)
+![Capture d’écran (268)](https://github.com/lecodeur228/UI_LOGIN_REGISTER/assets/92242447/536c18d2-b05c-4684-80f7-e2698f72a9eb)
